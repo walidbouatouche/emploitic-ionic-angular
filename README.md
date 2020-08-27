@@ -1,9 +1,9 @@
 
 
 
- #  EMPLOITIK DEMO V 0.0.1: React native + Reactjs
+#  EMPLOITIK  NAdroid  V 0.0.1:  ionic express js
 
-<img src='plan.png' width='700px' height='500px'>
+<img src='plan.png' width='400px' height='600px'>
 
 
 ## Getting Started
