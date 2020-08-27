@@ -3,7 +3,7 @@
 
 #  EMPLOITIK  NAdroid  V 0.0.1:  ionic express js
 
-<img src='plan.png' width='400px' height='600px'>
+<img src='plan.png' width='800px' height='1200px'>
 
 
 ## Getting Started
